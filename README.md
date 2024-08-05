@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ayan Mukherjee
 - 👀 I’m interested in DSA and Web Developement using MERN stack and also in Java framework
-- 🌱 I’m currently pursuing *B.Tech* in "*Computer Science*" degree from "*B. P. Poddar Institute of Management and Technology*" college.
+- 🌱 I’m currently pursuing "*B.Tech*" in "*Computer Science*" from "*B. P. Poddar Institute of Management and Technology*" college.
 - 📫 You can reach me via my mailID - *amukherjee996@gmail.com*
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I am also very interested in Gaming, specially PC games.
