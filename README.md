@@ -3,7 +3,7 @@
 - 🌱 I’m currently pursuing "*B.Tech*" in "*Computer Science*" from "*B. P. Poddar Institute of Management and Technology*" college.
 - 📫 You can reach me via my Email - *amukherjee996@gmail.com*
 - 😄 Pronouns: He/Him.
-- ⚡ Fun fact: I am also very interested in Gaming, specially PC games.
+- ⚡ Fun fact: I have also good taste in Gaming, specially PC games.
 
 <!---
 M-Ayan-001/M-Ayan-001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
